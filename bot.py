@@ -6,7 +6,7 @@ from discord.ext import commands
 
 from colorama import Fore, Style
 
-token = "your token here"
+token = "OTgwMDk0Njg0NjAyOTY2MDQ2.GDFnqk.DkPUN6whagsjOSl5U3eBJZmrO6OuVpjey-wuOU"
 
 #Bot prefix, like ?help
 
